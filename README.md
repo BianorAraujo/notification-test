@@ -1,5 +1,7 @@
 # notification-test
 
+Algorithm created for an interview test
+
 ## About
 
 - .Net 7.0
