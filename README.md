@@ -1,5 +1,12 @@
 # notification-test
 
+## About
+
+- .Net 7.0
+- XUnit
+- Visual Studio for Mac
+
+## Desscription
 
 Prepare a notification of the given message which will be displayed on a mobile device. The message is made of words separated by single spaces. The length of the notification is limited to K characters. If the message is too long to be displayed fully, some words from the end of the message should be cropped, keeping in mind that:
 *   the notification should be as long as possible;
